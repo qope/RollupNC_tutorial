@@ -3,7 +3,9 @@
 
 # git clone
 
+```
 git clone https://github.com/qope/RollupNC_tutorial.git --recursive
+```
 
 # circomlibjsとsnarkjsのインストール
 
